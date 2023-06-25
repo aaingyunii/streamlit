@@ -1,1 +1,3 @@
 altair<5
+seaborn
+plotly
